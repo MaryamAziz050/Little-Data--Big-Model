@@ -1,0 +1,4 @@
+model,epochs_run,final_training_loss,best_validation_loss,best_epoch,test_accuracy
+Small,300,1.749,1.818,300,0.66
+Big,300,0.001,0.216,97,0.957
+Big + dropout + decay,168,0.009,0.202,138,0.965
